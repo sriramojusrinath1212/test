@@ -1,0 +1,19 @@
+From 434ac321c6217fe91c9a3d55534a2bf0b7abda02 Mon Sep 17 00:00:00 2001
+From: Sriramoju Srinath Rao <sriramoju.rao@itcinfotech.com>
+Date: Wed, 30 May 2018 12:05:21 +0530
+Subject: [PATCH 2/2] added one line
+
+---
+ example1.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/example1.txt b/example1.txt
+index 7f962c4..d7dee40 100644
+--- a/example1.txt
++++ b/example1.txt
+@@ -1 +1,2 @@
+ this is example 1
++this is example2
+-- 
+2.15.1.windows.2
+
